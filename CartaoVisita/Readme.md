@@ -1,1 +1,2 @@
- Projeto utilizando apenas Html e Css. 
+ Projeto ficticio utilizando Html e Css. (modelo encontrado na internet). 
+ 
